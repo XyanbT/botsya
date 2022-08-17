@@ -1,5 +1,10 @@
 <p align="center">
 <img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+## FOR DEPLOY HEROKU USER
+
+
+<p><a href="https://heroku.com/deploy?template="https://github.com/KurrXd/KurzBotAssistan"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 
 
 </p>
